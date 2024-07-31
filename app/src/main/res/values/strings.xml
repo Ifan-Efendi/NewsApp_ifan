@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="page_title_home">Home</string>
+    <string name="content_description">none</string>
+    <string name="find_your_news">Find Your News Here</string>
+    <string name="register_title">Daftarkan Akun Anda</string>
+    <string name="username_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="repassword_hint">Masukan Ulang Password</string>
+    <string name="login_title">Login</string>
+    <string name="login_desc"><![CDATA[Masukan Email & Password]]></string>
+    <string name="register">Register</string>
+    <string name="sign_in_with_google">Sign In With Google\n</string>
+    <string name="default_web_client_id" >177028308893-n6f7pbtnncan46qnakttcdko7qdt3nuh.apps.googleusercontent.com</string>
+    <string name="name_hint">Nama</string>
+</resources>
